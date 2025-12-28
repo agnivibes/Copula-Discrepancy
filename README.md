@@ -35,6 +35,28 @@ pip install numpy scipy matplotlib joblib tqdm statsmodels
 ```
 
 ```bash
-git clone [https://github.com/<your-username>/<your-repo>](https://github.com/agnivibes/Copula-Discrepancy).git
-cd <agnivibes>
+git clone https://github.com/agnivibes/Copula-Discrepancy.git
+cd Copula-Discrepancy
 ```
+
+## 📊 Citation
+If you use this code or method in your own work, please cite:
+
+@article{Aich2025CopulaDiscrepancy,
+  title   = {Copula Discrepancy: Benchmarking Dependence Structure},
+  author  = {Aich, Agnideep and Aich, Ashit Baran},
+  journal = {},
+  year    = {2025},
+  note    = {Submitted}
+}
+
+## 📬 Contact
+For questions or collaborations, feel free to contact:
+
+Agnideep Aich,
+Department of Mathematics, University of Louisiana at Lafayette
+📧 agnideep.aich1@louisiana.edu
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
