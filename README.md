@@ -9,8 +9,6 @@ This repository contains the code to reproduce the experiments in our paper:
 **Copula Discrepancy: Benchmarking Dependence Structure**  
 **Authors:** Agnideep Aich, Ashit Baran Aich
 
-The repository is intentionally simple: **four Python scripts in the root directory**, one per experiment.
-
 ---
 
 ## ✅ Contents (4 scripts)
