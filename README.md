@@ -47,6 +47,7 @@ If you use this code or method in your own work, please cite:
   author  = {Aich, Agnideep and Aich, Ashit Baran},
   journal = {},
   year    = {2025},
+  doi     = 10.48550/arXiv.2507.21434
   note    = {Submitted}
 }
 
