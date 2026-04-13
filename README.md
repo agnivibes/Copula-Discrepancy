@@ -39,7 +39,7 @@ cd Copula-Discrepancy
 
 ## 📊 Citation
 If you use this code or method in your own work, please cite:
-
+```bibtext
 @article{Aich2025CopulaDiscrepancy,
   title   = {Copula Discrepancy: Benchmarking Dependence Structure},
   author  = {Aich, Agnideep and Aich, Ashit Baran},
@@ -47,7 +47,7 @@ If you use this code or method in your own work, please cite:
   doi     = {10.48550/arXiv.2507.21434}
   note    = {Submitted}
 }
-
+```
 ## 📬 Contact
 For questions or collaborations, feel free to contact:
 
